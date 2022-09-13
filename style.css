@@ -8,6 +8,8 @@
   padding: 0;
   box-sizing: border-box;
   text-decoration: none;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
 }
 html {
   scroll-behavior: smooth;
@@ -37,6 +39,7 @@ section {
   padding: 0 80px;
   margin: auto;
 }
+
 .about,
 .services,
 .skills,
@@ -49,6 +52,7 @@ footer {
 .services .serv-content,
 .skills .skills-content,
 .contact .contact-content {
+  
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -83,7 +87,7 @@ section .title::after {
   bottom: -8px;
   left: 50%;
   font-size: 20px;
-  color: crimson;
+  color: rgb(20, 180, 220);
   padding: 0 5px;
   background: #fff;
   transform: translateX(-50%);
@@ -100,7 +104,7 @@ section .title::after {
 }
 .navbar.sticky {
   padding: 15px 0;
-  background: crimson;
+  background: rgb(20, 180, 220);
 }
 .navbar .max-width {
   display: flex;
@@ -117,7 +121,7 @@ section .title::after {
   font-family: 'Inter', sans-serif;
 }
 .navbar .logo a span {
-  color: crimson;
+  color: rgb(20, 180, 220);
   transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span {
@@ -136,7 +140,7 @@ section .title::after {
   transition: color 0.3s ease;
 }
 .navbar .menu li a:hover {
-  color: crimson;
+  color: rgb(20, 180, 220);
 }
 
 
@@ -164,7 +168,7 @@ section .title::after {
   bottom: 10px;
   text-align: center;
   line-height: 45px;
-  color: crimson;
+  color: rgb(20, 180, 220);
   z-index: 9999;
   font-size: 30px;
   border-radius: 6px;
@@ -188,7 +192,8 @@ section .title::after {
 /* https://images.pexels.com/photos/168766/pexels-photo-168766.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 */
 .home {
   display: flex;
-  background: url("https://images.pexels.com/photos/633409/pexels-photo-633409.jpeg?cs=srgb&dl=pexels-daniel-putzer-633409.jpg&fm=jpg") no-repeat center;
+  opacity: 1.4;
+  background: url("https://images.wallpaperscraft.com/image/single/code_lines_programming_130775_1366x768.jpg") no-repeat center;
   background-color: #111;
   height: 100vh;
   color: #fff;
@@ -220,23 +225,23 @@ section .title::after {
   margin: 5px 0;
 }
 .home .home-content .text-3 span {
-  color: crimson;
+  color: rgb(20, 180, 220);
   font-weight: 500;
 }
 .home .home-content a {
   display: inline-block;
-  background: crimson;
+  background: rgb(20, 180, 220);
   color: #fff;
   font-size: 25px;
   padding: 12px 36px;
   margin-top: 20px;
   font-weight: 400;
   border-radius: 6px;
-  border: 1px solid crimson;
+  border: 1px solid rgb(20, 180, 220);
   transition: all 0.3s ease;
 }
 .home .home-content a:hover {
-  color: crimson;
+  color: rgb(20, 180, 220);
   background: none;
 }
 
@@ -294,18 +299,18 @@ background-size: 10px 10px;
 }
 .about .about-content .right a {
   display: inline-block;
-  background: crimson;
+  background: rgb(20, 180, 220);
   color: #fff;
   font-size: 20px;
   font-weight: 500;
   padding: 10px 30px;
   margin-top: 20px;
   border-radius: 6px;
-  border: 1px solid crimson;
+  border: 1px solid rgb(20, 180, 220);
   transition: all 0.3s ease;
 }
 .about .about-content .right a:hover {
-  color: crimson;
+  color: rgb(20, 180, 220);
   background: none;
 }
 .about .title::after {
@@ -339,7 +344,7 @@ background-size: 10px 10px;
   transition: all 0.3s ease;
 }
 .services .serv-content .card:hover {
-  /* background: crimson; */
+  /* background: rgb(20, 180, 220); */
   color: #555;
   /* change*/
 }
@@ -351,7 +356,7 @@ background-size: 10px 10px;
 }
 .services .serv-content .card i {
   font-size: 50px;
-  color: crimson;
+  color: rgb(20, 180, 220);
   transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i {
@@ -371,7 +376,7 @@ background-size: 10px 10px;
   width: 150px;
   /* object-fit: cover; */
   border-radius: 5%;
-  /* border: 5px solid crimson; */
+  /* border: 5px solid rgb(20, 180, 220); */
   transition: all 0.3s ease;
 }
 #html_img img{
@@ -436,18 +441,18 @@ background-size: 10px 10px;
 }
 .skills .skills-content .left a {
   display: inline-block;
-  background: crimson;
+  background: rgb(20, 180, 220);
   color: #fff;
   font-size: 18px;
   font-weight: 500;
   padding: 8px 16px;
   margin-top: 20px;
   border-radius: 6px;
-  border: 1px solid crimson;
+  border: 1px solid rgb(20, 180, 220);
   transition: all 0.3s ease;
 }
 .skills .skills-content .left a:hover {
-  color: crimson;
+  color: rgb(20, 180, 220);
   background: none;
 }
 .skills .skills-content .right .bars {
@@ -475,7 +480,7 @@ background-size: 10px 10px;
   height: 100%;
   left: 0;
   top: 0;
-  background: crimson;
+  background: rgb(20, 180, 220);
 }
 .skills-content .right .html::before {
   width: 90%;
@@ -569,7 +574,7 @@ background-size: 10px 10px;
   width: 250px;
   object-fit: cover;
   border-radius: 5%;
-  /* border: 5px solid crimson; */
+  /* border: 5px solid rgb(20, 180, 220); */
   transition: all 0.3s ease;
 }
 .project .carousel .card:hover img {
@@ -586,7 +591,7 @@ background-size: 10px 10px;
   margin: 0 5px;
   outline: none !important;
   border-radius: 50%;
-  border: 2px solid crimson !important;
+  border: 2px solid rgb(20, 180, 220) !important;
   transition: all 0.3s ease;
 }
 .owl-dot.active {
@@ -595,7 +600,7 @@ background-size: 10px 10px;
 }
 .owl-dot.active,
 .owl-dot:hover {
-  background: crimson !important;
+  background: rgb(20, 180, 220) !important;
 }
 .skills-images {
   width: 120px;
@@ -605,7 +610,7 @@ background-size: 10px 10px;
 /* contact section styling */
 
 .material-symbols-outlined{
-  background-color: crimson;
+  background-color: rgb(20, 180, 220);
   color: #fff;
 }
 .contact .title::after {
@@ -635,7 +640,7 @@ background-size: 10px 10px;
 }
 .contact .contact-content .row i {
   font-size: 25px;
-  color: crimson;
+  color: rgb(20, 180, 220);
 }
 .contact .contact-content .info .head {
   font-weight: 500;
@@ -702,12 +707,12 @@ background-size: 10px 10px;
   border-radius: 6px;
   cursor: pointer;
   flex-wrap: nowrap;
-  background: crimson;
-  border: 1px solid crimson;
+  background: rgb(20, 180, 220);
+  border: 1px solid rgb(20, 180, 220);
   transition: all 0.3s ease;
 }
 .right form .button-area button:hover {
-  color: crimson;
+  color: rgb(20, 180, 220);
   background: none;
 }
 /* footer section styling */
@@ -718,7 +723,7 @@ footer {
   text-align: center;
 }
 footer span a {
-  color: crimson;
+  color: rgb(20, 180, 220);
   text-decoration: none;
 }
 footer span a:hover {
