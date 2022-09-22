@@ -18,9 +18,9 @@
 - 🔭 I’m currently working on MySkill😄
 - 🌱 I’m currently learning at Masai School
 - 💬 Ask me about Java
-- 👨‍💻 This is [My Portfolio](https://sujeetsharma1997.github.io/Sujeetsharma1997/)
--  📄 This is [My Resume](https://drive.google.com/file/d/1dmCI7uDQOjc8_cPlYH7TT5X52BpqOu6W/view?usp=sharing)
-- 📫 How to reach me: ...sujeetkumar081997@gmail.com
+- 👨‍💻 This is [My Portfolio](https://abhitim.github.io/abhishek_tomar/)
+-  📄 This is [My Resume](https://drive.google.com/file/d/1Fto2fg-yAs13Vpf4URa1UZOd14kzSPF3/view)
+- 📫 How to reach me: ...abhishektomarcpr@gmail.com
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -32,7 +32,7 @@
 
 <p>
     
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhitim&show_icons=true&locale=en&theme=dark" alt="sujeetsharma1997"  height="139" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhitim&show_icons=true&locale=en&theme=dark" alt="abhitim"  height="139" />
     
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujeetsharma1997&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="sujeetsharma1997" height="139" />
 
@@ -40,7 +40,7 @@
 
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=sujeetsharma1997&theme=xcode" height ="307"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=abhitim&theme=xcode" height ="307"/>
 
 
 
