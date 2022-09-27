@@ -1,6 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhitim &label=Profile%20views&color=0e75b6&style=flat" alt="abhitim" /> </p>
 
-
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -22,13 +21,9 @@
 -  📄 This is [My Resume](https://drive.google.com/file/d/1Fto2fg-yAs13Vpf4URa1UZOd14kzSPF3/view)
 - 📫 How to reach me: ...abhishektomarcpr@gmail.com
 
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-                                                       
 <h2><i>My GitHub Stats</i></h2>
-
-
 
 <p>
     
@@ -38,26 +33,9 @@
 
 </p>
 
-
-
 <img src="https://activity-graph.herokuapp.com/graph?username=abhitim&theme=xcode" height ="307"/>
 
-
-
-
-
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-
-
-
-
-
-
-
-
 
 <div align="center">  
                                                          
@@ -65,24 +43,17 @@
 
 <p align="center">
 
-
 <a href="https://www.linkedin.com/in/abhishek-tomar-9a67771b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeetsharma1997" height="30" width="40" /></a>
 
 <a href="https://instagram.com/abhishek_tomar3008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujeetsharma08" height="30" width="40" /></a>
 
-
 </p>
 
-</div>  
-
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-                                                          
-
 <h3 align="left">🛠 &nbsp;Tech Stack </h3>
-
-
 
 <div align="center">
   
@@ -98,7 +69,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
   
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/>
-  
+
 
 <!--    -->
 
