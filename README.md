@@ -20,8 +20,21 @@
 - 👨‍💻 This is [My Portfolio](https://abhitim.github.io/abhishek_tomar/)
 -  📄 This is [My Resume](https://drive.google.com/file/d/1Fto2fg-yAs13Vpf4URa1UZOd14kzSPF3/view)
 - 📫 How to reach me: ...abhishektomarcpr@gmail.com
+<div align="center">  
+                                                         
+<h3 align="left">Connect with me</h3>
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abhishek-tomar-9a67771b3/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeetsharma1997" height="30" width="40" /></a>
+
+<a href="https://instagram.com/abhishek_tomar3008" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujeetsharma08" height="30" width="40" /></a>
+
+</p>
+
+</div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 
 <h2><i>My GitHub Stats</i></h2>
 
@@ -37,19 +50,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<div align="center">  
-                                                         
-<h3 align="left">Connect with me</h3>
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/abhishek-tomar-9a67771b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujeetsharma1997" height="30" width="40" /></a>
-
-<a href="https://instagram.com/abhishek_tomar3008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujeetsharma08" height="30" width="40" /></a>
-
-</p>
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
