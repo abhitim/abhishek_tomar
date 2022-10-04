@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on MySkill😄
 - 🌱 I’m currently learning at Masai School
 - 💬 Ask me about Java
-- 👨‍💻 This is [My Portfolio](https://abhitim.github.io/abhishek_tomar/)
+- 👨‍💻 This is [My Portfolio](https://abhitim.github.io/)
 -  📄 This is [My Resume](https://drive.google.com/file/d/1Fto2fg-yAs13Vpf4URa1UZOd14kzSPF3/view)
 - 📫 How to reach me: ...abhishektomarcpr@gmail.com
 <div align="center">  
